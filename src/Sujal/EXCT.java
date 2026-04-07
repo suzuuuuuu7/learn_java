@@ -1,5 +1,5 @@
+package Sujal;
 import java.util.InputMismatchException;
-import java.util.Optional;
 import java.util.Scanner;
 public class EXCT {
     public static void main(String[] args){
